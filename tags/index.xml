@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Happy Code Guru</title>
-    <link>http://happycodeguru.github.io/tags/</link>
+    <link>https://happycodeguru.github.io/tags/</link>
     <description>Recent content in Tags on Happy Code Guru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://happycodeguru.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://happycodeguru.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>privacy</title>
-      <link>http://happycodeguru.github.io/tags/privacy/</link>
+      <link>https://happycodeguru.github.io/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://happycodeguru.github.io/tags/privacy/</guid>
+      <guid>https://happycodeguru.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://happycodeguru.github.io/tags/shortcodes/</link>
+      <link>https://happycodeguru.github.io/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://happycodeguru.github.io/tags/shortcodes/</guid>
+      <guid>https://happycodeguru.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>http://happycodeguru.github.io/tags/emoji/</link>
+      <link>https://happycodeguru.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://happycodeguru.github.io/tags/emoji/</guid>
+      <guid>https://happycodeguru.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
